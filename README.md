@@ -1,27 +1,55 @@
-# SantanderClient
+#   Santander Home Clone - Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+## Resultado Final 👁️
+ <img src="https://github.com/IaraTassi/santander-dev-week-2023/blob/master/Captura%20de%20Tela%20(119).png">
 
-## Development server
+ ## ⚙️ Tecnologias utilizadas
+
+<p>&nbsp;</p>
+<img src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+
+## Features
+- [x] Fully Component With Angular
+
+## Technologies & Techniques
+
+This project was developed with the following technologies:
+-   [Angular](https://angular.io)
+
+
+## Building
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+📦 1. Install dependencys
 
-## Build
+```bash
+$ npm install
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+📁 2. Change Directory
 
-## Running unit tests
+```bash
+$ cd santander-client
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+🔧 3. Run the script
 
-## Running end-to-end tests
+```bash
+$ ng serve
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+🌐 4. Navigate to
 
-## Further help
+```bash 
+ http://localhost:4200/
+```
+Runs the app in the development mode.<br/>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Agradeço a [DIO](https://www.dio.me/) que em parceria com [Santander](https://www.santander.com.br/) nos trouxe uma live com o Tech Educator [Felipe Aguiar](https://github.com/felipeAguiarCode) com sua excelente didática; este é o resultado do que aprendi. 
