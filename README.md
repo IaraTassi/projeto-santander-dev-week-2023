@@ -1,7 +1,7 @@
 #   Santander Home Clone - Angular
 
 ## Resultado Final 👁️
- <img src="https://github.com/IaraTassi/santander-dev-week-2023/blob/master/Captura%20de%20Tela%20(119).png">
+ <img src="https://github.com/IaraTassi/santander-dev-week-2023/blob/master/Santander.png">
 
  ## ⚙️ Tecnologias utilizadas
 
